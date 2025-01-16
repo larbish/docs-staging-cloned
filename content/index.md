@@ -16,7 +16,7 @@ orientation: horizontal
   :::
 
 #title
-Build your docs in seconds
+Build your docs in micro seconds
 
 #description
 Create your documentation in seconds with this template!
